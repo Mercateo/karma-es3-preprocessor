@@ -10,7 +10,7 @@ $ npm install --save-dev karma-es3-preprocessor
 
 ## Usage
 
-In your karma.conf.js add this preprocessor like shown below:
+Modify your karma.conf.js like shown below:
 ```json
 {
   preprocessors: [
