@@ -13,7 +13,7 @@ $ npm install --save-dev karma-es3-preprocessor
 In your karma.conf.js add this preprocessor like shown below:
 ```json
 {
-  preprocessor: [
+  preprocessors: [
     'src/**/*.js': 'es3-safe-recast'
   ]
 }
