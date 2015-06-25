@@ -1,6 +1,6 @@
 {
   "name": "karma-es3-preprocessor",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Karma preprocessor for ES3 safe recast of reserved phrases.",
   "homepage": "https://github.com/Mercateo/karma-es3-preprocessor",
   "main": "lib/index.js",
