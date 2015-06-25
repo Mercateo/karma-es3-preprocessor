@@ -38,7 +38,7 @@
     "node": ">=0.4.2"
   },
   "dependencies": {
-    "es3-safe-recast": "^1.0.0"
+    "es3-safe-recast": "^2.0.1"
   },
   "devDependencies": {},
   "peerDependencies": {
